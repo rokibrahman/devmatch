@@ -12,7 +12,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-# Add Bootstrap
+# Use boorstrap library for styles
 gem 'bootstrap-sass', '3.3.1'
 
 # Use SCSS for stylesheets
